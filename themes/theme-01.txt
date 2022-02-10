@@ -1,0 +1,1 @@
+theme fixed bug 1
